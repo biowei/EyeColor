@@ -1,7 +1,8 @@
 '''
 Created on 19 Apr 2016
-
 @author: weilu1
+This script is used to analysis genotypes of eye color associated SNPs and infer eye color 
+using a simple probabilty model.
 '''
 
 from __future__ import division
